@@ -1,3 +1,5 @@
+package BasicQuestions;
+
 import java.util.Scanner;
 public class PrintInput {
     public static void main(String[] args) {

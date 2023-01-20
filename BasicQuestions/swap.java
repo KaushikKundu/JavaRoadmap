@@ -7,6 +7,7 @@ public class swap {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
+        sc.close();
         swap(a,b);
     }
     public static void swap(int x, int y) {

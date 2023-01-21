@@ -8,9 +8,9 @@ public class swap {
         int a = sc.nextInt();
         int b = sc.nextInt();
         sc.close();
-        swap(a,b);
+        Swap(a,b);
     }
-    public static void swap(int x, int y) {
+    public static void Swap(int x, int y) {
         int temp = x;
         x = y; 
         y = temp;
